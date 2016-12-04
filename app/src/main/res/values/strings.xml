@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatterPatter</string>
+    <string name="send">SEND</string>
+    <string name="sign_out">sign_out</string>
+    <string name="fresh_config">fresh_config</string>
+    <string name="invite_menu_label">invite_menu_label</string>
+    <string name="cause_crash">cause_crash</string>
+    <string name="invitation_title">invitation_title</string>
+    <string name="invitation_message">invitation_message</string>
+    <string name="invitation_cta">invitation_cta</string>
+    <string name="banner_ad_unit_id">banner_ad_unit_id</string>
+</resources>

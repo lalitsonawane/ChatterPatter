@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "592583079651",
+    "firebase_url": "https://chatterpatter-26d1e.firebaseio.com",
+    "project_id": "chatterpatter-26d1e",
+    "storage_bucket": "chatterpatter-26d1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592583079651:android:001231c095ed8f67",
+        "android_client_info": {
+          "package_name": "com.lalitsonawane.chatting.chatterpatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592583079651-0illgf4g01u14r3feg9e7nvc148uoj4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lalitsonawane.chatting.chatterpatter",
+            "certificate_hash": "F41535A8E7F526923AA2DC37168CCC16ED3323BF"
+          }
+        },
+        {
+          "client_id": "592583079651-iudhnspromvubmsakr1a0gg2f4mj02pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1B5AmCtzz67D0kbiOFN98NlMzKhXgCsg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592583079651-iudhnspromvubmsakr1a0gg2f4mj02pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
